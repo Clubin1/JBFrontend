@@ -11,14 +11,14 @@ const Footer = () => {
           </div>
 
           <div class="footerItems">
-            <a href="" class="me-4 text-reset">
+            <a href="https://facebook.com" class="me-4 text-reset">
               <i class="fab fa-facebook-f"></i>
             </a>
-            <a href="" class="me-4 text-reset">
+            <a href="https://whataspp.com" class="me-4 text-reset">
               <i class="fab fa-whatsapp"></i>
             </a>
 
-            <a href="" class="me-4 text-reset">
+            <a href="https://instagram.com" class="me-4 text-reset">
               <i class="fab fa-instagram"></i>
             </a>
           </div>
@@ -64,7 +64,7 @@ const Footer = () => {
                 </p>
                 <p>
                   <a href="#!" class="text-reset">
-                    Ecuadorian Goods
+                    Ecuadorian Pastries
                   </a>
                 </p>
               </div>
@@ -105,7 +105,7 @@ const Footer = () => {
                 </p>
                 <p>
                   <i class="fas fa-phone me-3"></i>
-                  +1(704)-712-3369
+                  +1(704)-620-8005
                 </p>
               </div>
             </div>

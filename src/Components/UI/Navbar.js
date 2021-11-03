@@ -41,7 +41,7 @@ window.addEventListener('scroll', changeNavbarColor);
           <div class="collapse navbar-collapse" id="navbarButtonsExample">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class={colorChange ? 'nav-link navLogo navDark' : 'nav-link navLogo'} href="#">
+                <a href="#about" class={colorChange ? 'nav-link navLogo navDark' : 'nav-link navLogo'}>
                   Jonny's Bakery
                 </a>
               </li>
@@ -49,21 +49,23 @@ window.addEventListener('scroll', changeNavbarColor);
 
             <div class="d-flex align-items-center">
             
-            <a type="button" class={colorChange ? 'btn btn-link px-3 me-2 navItem navDark' : 'btn btn-link px-3 me-2 navItem'}>
+            <a href="#gallery" type="button" class={colorChange ? 'btn btn-link px-3 me-2 navItem navDark' : 'btn btn-link px-3 me-2 navItem'}>
                 Gallery
               </a>
-              <a type="button" class={colorChange ? 'btn btn-link px-3 me-2 navItem navDark' : 'btn btn-link px-3 me-2 navItem'}>
+              <a href="#about" type="button" class={colorChange ? 'btn btn-link px-3 me-2 navItem navDark' : 'btn btn-link px-3 me-2 navItem'}>
                 About
               </a>
-              <a type="button" class={colorChange ? 'btn btn-link px-3 me-2 navItem navDark' : 'btn btn-link px-3 me-2 navItem'}>
+              <a href="#product" type="button" class={colorChange ? 'btn btn-link px-3 me-2 navItem navDark' : 'btn btn-link px-3 me-2 navItem'}>
                 Products
               </a>
+              <a href="#contact">
               <button type="button" class="landingBtn btn btn-primary me-3">
                 Contact Us
               </button>
+              </a>
               <a
                 class="btn btn-dark px-3"
-                href="https://github.com/mdbootstrap/mdb-ui-kit"
+                href="#contact"
                 role="button"
               >
                 <i class="fas fa-phone"></i>
