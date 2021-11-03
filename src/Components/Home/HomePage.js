@@ -23,9 +23,7 @@ const HomePage = () => {
         <div class="offerCol">
           <h1 class="offerTitle">OUR BESTSELLERS</h1>
           <p class="offerText">
-            Treats that change the way you think about dessert. Think layer
-            cakes with unfrosted <br></br>sides, gooey pie, and fudgy Cake
-            Truffles. Don't be shy—give ‘em a try.
+          Here you can use rows and columns to organize your footer content. Lorem ipsum dolor <br></br>sit amet, consectetur adipisicing elit.
           </p>
           <a id="offerTag" href="#product">
             SEE MORE
@@ -69,10 +67,9 @@ const HomePage = () => {
       <div id="about" class="contentRow">
         <div class="contentColImg"></div>
         <div class="contentColInfo">
-          <h1 class="contentTitle">BIRTHDAY ESSENTIALS DELIVERED.</h1>
+          <h1 class="contentTitle">Maria Sanchez</h1>
           <p class="offerText width">
-            Brand new party kits for the ultimate birthday of any size. Skip the
-            party store, order the cake and the decorations to your door.
+          Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
           </p>
           <button id="abtBtn" type="button" class="btn left btn-primary">
             Contact Us
@@ -82,10 +79,9 @@ const HomePage = () => {
 
       <div class="contentRow">
         <div class="contentColInfo right">
-          <h1 class="contentTitle">CHRISTINA TOSI WROTE A CHILDREN’S BOOK!</h1>
+          <h1 class="contentTitle">Jonny Sanchez</h1>
           <p class="offerText width">
-            Brand new party kits for the ultimate birthday of any size. Skip the
-            party store, order the cake and the decorations to your door.
+          Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
           </p>
           <button id="abtBtn" type="button" class="btn left btn-primary">
             Contact Us
@@ -101,17 +97,17 @@ const HomePage = () => {
                   <div class="whyItem">
                     <i class="fas fa-birthday-cake fa-3x whyIcon"></i>
                     <h5 class="whyInfo">ONE-OF-A-KIND TREATS</h5>
-                    <p class="whyInfo">Try our award-winning classic Birthday Cake and our fan-favorite B’Day Cake Truffles!</p>
+                    <p class="whyInfo">Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                   </div>
                   <div class="whyItem">
                     <i class="fas fa-box fa-3x whyIcon"></i>
                     <h5 class="whyInfo">ONE-OF-A-KIND TREATS</h5>
-                    <p class="whyInfo">Try our award-winning classic Birthday Cake and our fan-favorite B’Day Cake Truffles!</p>
+                    <p class="whyInfo">Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                   </div>                  
                   <div class="whyItem">
                     <i class="fas fa-calendar fa-3x whyIcon"></i>
                     <h5 class="whyInfo">ONE-OF-A-KIND TREATS</h5>
-                    <p class="whyInfo">Try our award-winning classic Birthday Cake and our fan-favorite B’Day Cake Truffles!</p>
+                    <p class="whyInfo">Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                   </div>
               </div>
           </div>
@@ -120,8 +116,7 @@ const HomePage = () => {
       <div class="containerThing">
         <div class="containerOffset right">
           <h1 class="containerTitle">AUTHENTIC PASTRIES.</h1>
-          <p class="containerInfo"> Brand new party kits for the ultimate birthday of any size. <br></br>Skip the
-            party store, order the cake and the decorations to your door.</p>
+          <p class="containerInfo"> Here you can use rows and columns to organize your footer content.<br></br> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
           <button id="abtBtn" type="button" class="btn left btn-primary">
             Contact Us
           </button>
@@ -132,9 +127,7 @@ const HomePage = () => {
         <div class="offerCol">
           <h1 class="offerTitle">OUR BESTSELLERS</h1>
           <p class="offerText">
-            Treats that change the way you think about dessert. Think layer
-            cakes with unfrosted <br></br>sides, gooey pie, and fudgy Cake
-            Truffles. Don't be shy—give ‘em a try.
+          Here you can use rows and columns to organize your footer content. Lorem ipsum dolor <br></br>sit amet, consectetur adipisicing elit.
           </p>
           <a id="offerTag" href="#product">
             SEE MORE
