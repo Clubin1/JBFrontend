@@ -17,7 +17,7 @@ window.addEventListener('scroll', changeNavbarColor);
     <div class="fixed-top">
       <nav class={colorChange ? 'navbar navbar-expand-lg navbar-light bg-light colorChange' : 'navbar fixed-top navbar-expand-lg navbar-light bg-light'}>
         <div class="container">
-          <a class="navbar-brand me-2" href="https://mdbgo.com/">
+          <a class="navbar-brand me-2" href="#about">
             <img
               src={navLogo}
               height="70"
@@ -35,7 +35,7 @@ window.addEventListener('scroll', changeNavbarColor);
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <i class="fas fa-bars"></i>
+            <i class="fas fa-bars navIcon"></i>
           </button>
 
           <div class="collapse navbar-collapse" id="navbarButtonsExample">

@@ -114,7 +114,7 @@ const Footer = () => {
 
         <div class="copyright text-center p-4">
           © 2021 Copyright :
-          <a class="text-reset fw-bold" href="https://mdbootstrap.com/">
+          <a class="text-reset fw-bold" href="#about">
             {" "}
             Jonny's Bakery
           </a>

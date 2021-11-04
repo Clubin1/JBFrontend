@@ -336,3 +336,34 @@ section p, h6, .copyright, span, a{
         margin: 0;
     }
 }
+
+/***** NOT FOUND ******/
+.notFoundContainer{
+    background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url(https://cdn.shopify.com/s/files/1/0034/7550/5225/files/HomepageHeroPieDesktop_1_1500x.jpg?v=1633120900);
+  height: 80vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-attachment: fixed;
+  flex-direction: column;
+  flex-wrap: wrap;
+  min-height: 80vh;
+}
+
+.nfTitle{
+    color:#e6d9cd;
+}
+
+.nfText{
+    color:#e6d9cd
+}
+
+.navIcon{
+    color:#e6d9cd!important
+}
