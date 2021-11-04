@@ -87,7 +87,7 @@ const HomePage = () => {
             Contact Us
           </button>
         </div>
-        <div class="contentColImg"></div>
+        <div id="itemMove" class="contentColImg"></div>
       </div>
 
       <div class="whyUs">
@@ -117,7 +117,7 @@ const HomePage = () => {
         <div class="containerOffset right">
           <h1 class="containerTitle">AUTHENTIC PASTRIES.</h1>
           <p class="containerInfo"> Here you can use rows and columns to organize your footer content.<br></br> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-          <button id="abtBtn" type="button" class="btn left btn-primary">
+          <button id="containerBtn" type="button" class="btn left btn-primary">
             Contact Us
           </button>
         </div>
